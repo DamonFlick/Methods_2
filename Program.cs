@@ -18,7 +18,7 @@ namespace Methods_2
             Console.WriteLine("Result: " + Operations.opr(Convert.ToDouble(Console.ReadLine())));
             Console.ReadLine();
 
-            Console.WriteLine(" Enter a number to be converted to int by a custom method, then divided by two");
+            Console.WriteLine(" Enter a number to be converted to \'int\' by a custom method, then divided by two");
             Console.WriteLine("Result: " + Operations.opr(Console.ReadLine()));
             Console.ReadLine();
         }
